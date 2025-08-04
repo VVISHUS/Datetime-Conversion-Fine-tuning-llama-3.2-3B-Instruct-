@@ -1,0 +1,399 @@
+{"instruction": "Convert to datetime", "input": "this morning at 7-10", "output": {"start": "2025-08-05T07:00:00", "end": "2025-08-05T10:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "yesterday evening around 8:30", "output": {"start": "2025-08-04T20:30:00", "end": "2025-08-04T20:30:00"}}
+
+{"instruction": "Convert to datetime", "input": "last night 11:30", "output": {"start": "2025-08-04T23:30:00", "end": "2025-08-04T23:30:00"}}
+
+{"instruction": "Convert to datetime", "input": "show it on 26th April at 10", "output": {"start": "2025-04-26T10:00:00", "end": "2025-04-26T10:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "last week Saturday 10", "output": {"start": "2025-07-26T10:00:00", "end": "2025-07-26T10:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "yesterday between 3-4 pm", "output": {"start": "2025-08-04T15:00:00", "end": "2025-08-04T16:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "tomorrow at noon", "output": {"start": "2025-08-06T12:00:00", "end": "2025-08-06T12:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "next Monday 9 AM", "output": {"start": "2025-08-11T09:00:00", "end": "2025-08-11T09:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "two days ago at 5:30 PM", "output": {"start": "2025-08-03T17:30:00", "end": "2025-08-03T17:30:00"}}
+
+{"instruction": "Convert to datetime", "input": "July 15th around 3 PM", "output": {"start": "2025-07-15T15:00:00", "end": "2025-07-15T15:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "the day before yesterday at dawn", "output": {"start": "2025-08-03T06:00:00", "end": "2025-08-03T06:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "next weekend", "output": {"start": "2025-08-09T00:00:00", "end": "2025-08-10T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "March 3rd 2024 at midnight", "output": {"start": "2024-03-03T00:00:00", "end": "2024-03-03T00:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "in 3 days at sunset", "output": {"start": "2025-08-08T18:00:00", "end": "2025-08-08T18:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "last month on the 20th", "output": {"start": "2025-07-20T00:00:00", "end": "2025-07-20T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "Christmas Eve at 8 PM", "output": {"start": "2025-12-24T20:00:00", "end": "2025-12-24T20:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "next quarter", "output": {"start": "2025-10-01T00:00:00", "end": "2025-12-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the first Monday of September", "output": {"start": "2025-09-01T00:00:00", "end": "2025-09-01T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "3 hours from now", "output": {"start": "2025-08-05T15:30:00", "end": "2025-08-05T15:30:00"}}
+
+{"instruction": "Convert to datetime", "input": "last winter", "output": {"start": "2024-12-01T00:00:00", "end": "2025-02-28T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next Thursday at 2:15 PM", "output": {"start": "2025-08-14T14:15:00", "end": "2025-08-14T14:15:00"}}
+
+{"instruction": "Convert to datetime", "input": "last Friday evening", "output": {"start": "2025-08-01T18:00:00", "end": "2025-08-01T21:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "August 30th at sunrise", "output": {"start": "2025-08-30T06:00:00", "end": "2025-08-30T06:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "in 10 days at 9 AM", "output": {"start": "2025-08-15T09:00:00", "end": "2025-08-15T09:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "the day after tomorrow at noon", "output": {"start": "2025-08-07T12:00:00", "end": "2025-08-07T12:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "last December 15th", "output": {"start": "2024-12-15T00:00:00", "end": "2024-12-15T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "this Saturday from 3-6 PM", "output": {"start": "2025-08-09T15:00:00", "end": "2025-08-09T18:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "New Year's Day at midnight", "output": {"start": "2026-01-01T00:00:00", "end": "2026-01-01T00:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "a week from today at dusk", "output": {"start": "2025-08-12T19:00:00", "end": "2025-08-12T19:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "May 1st 2026 at 8 AM", "output": {"start": "2026-05-01T08:00:00", "end": "2026-05-01T08:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "last summer", "output": {"start": "2025-06-01T00:00:00", "end": "2025-08-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "tomorrow morning between 8-9", "output": {"start": "2025-08-06T08:00:00", "end": "2025-08-06T09:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "Halloween night", "output": {"start": "2025-10-31T18:00:00", "end": "2025-10-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the third Wednesday of October", "output": {"start": "2025-10-15T00:00:00", "end": "2025-10-15T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "6 months from now", "output": {"start": "2026-02-05T12:00:00", "end": "2026-02-05T12:00:00"}} 
+
+{"instruction": "Convert to datetime", "input": "last Valentine's Day", "output": {"start": "2025-02-14T00:00:00", "end": "2025-02-14T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next fiscal year", "output": {"start": "2026-01-01T00:00:00", "end": "2026-12-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the weekend after next", "output": {"start": "2025-08-16T00:00:00", "end": "2025-08-17T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "Thanksgiving 2025", "output": {"start": "2025-11-27T00:00:00", "end": "2025-11-27T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 2 weeks at 4:30 PM", "output": {"start": "2025-08-19T16:30:00", "end": "2025-08-19T16:30:00"}}
+
+{"instruction": "Convert to datetime", "input": "last quarter", "output": {"start": "2025-04-01T00:00:00", "end": "2025-06-30T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the ides of March", "output": {"start": "2026-03-15T00:00:00", "end": "2026-03-15T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "from 5th to 7th August", "output": {"start": "2025-08-05T00:00:00", "end": "2025-08-07T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next full moon", "output": {"start": "2025-08-19T00:00:00", "end": "2025-08-19T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "last hour", "output": {"start": "2025-08-05T11:00:00", "end": "2025-08-05T12:00:00"}} 
+
+{"instruction": "Convert to datetime", "input": "the first day of school", "output": {"start": "2025-09-01T08:00:00", "end": "2025-09-01T08:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "Diwali 2025", "output": {"start": "2025-10-23T00:00:00", "end": "2025-10-23T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "from yesterday to tomorrow", "output": {"start": "2025-08-04T00:00:00", "end": "2025-08-06T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next leap year", "output": {"start": "2028-01-01T00:00:00", "end": "2028-12-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the last Sunday of September", "output": {"start": "2025-09-28T00:00:00", "end": "2025-09-28T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 45 minutes", "output": {"start": "2025-08-05T12:45:00", "end": "2025-08-05T12:45:00"}} 
+
+{"instruction": "Convert to datetime", "input": "the second week of November", "output": {"start": "2025-11-09T00:00:00", "end": "2025-11-15T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "last Ramadan", "output": {"start": "2025-03-01T00:00:00", "end": "2025-03-30T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "next solstice", "output": {"start": "2025-12-21T00:00:00", "end": "2025-12-21T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the 4th of July at 9 PM", "output": {"start": "2025-07-04T21:00:00", "end": "2025-07-04T21:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "from 9 AM to 5 PM tomorrow", "output": {"start": "2025-08-06T09:00:00", "end": "2025-08-06T17:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "last Easter", "output": {"start": "2025-04-20T00:00:00", "end": "2025-04-20T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next blue moon", "output": {"start": "2026-05-31T00:00:00", "end": "2026-05-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the first Friday of 2026", "output": {"start": "2026-01-02T00:00:00", "end": "2026-01-02T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in half an hour", "output": {"start": "2025-08-05T12:30:00", "end": "2025-08-05T12:30:00"}} 
+
+{"instruction": "Convert to datetime", "input": "the last business day of 2025", "output": {"start": "2025-12-31T00:00:00", "end": "2025-12-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "from dawn to dusk tomorrow", "output": {"start": "2025-08-06T06:00:00", "end": "2025-08-06T19:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "last Chinese New Year", "output": {"start": "2025-01-29T00:00:00", "end": "2025-01-29T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next meteor shower", "output": {"start": "2025-08-12T00:00:00", "end": "2025-08-12T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "the first day of spring", "output": {"start": "2026-03-20T00:00:00", "end": "2026-03-20T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 90 days", "output": {"start": "2025-11-03T00:00:00", "end": "2025-11-03T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "last presidential election day", "output": {"start": "2024-11-05T00:00:00", "end": "2024-11-05T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next total solar eclipse", "output": {"start": "2026-08-12T00:00:00", "end": "2026-08-12T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the first night of Hanukkah", "output": {"start": "2025-12-25T00:00:00", "end": "2025-12-25T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "from last Monday to Friday", "output": {"start": "2025-07-28T00:00:00", "end": "2025-08-01T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "three weekends from now", "output": {"start": "2025-08-23T00:00:00", "end": "2025-08-24T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the 15th minute of the next hour", "output": {"start": "2025-08-05T13:15:00", "end": "2025-08-05T13:15:00"}} 
+
+{"instruction": "Convert to datetime", "input": "last Presidents' Day", "output": {"start": "2025-02-17T00:00:00", "end": "2025-02-17T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "noon tomorrow", "output": {"start": "2025-08-06T12:00:00", "end": "2025-08-06T12:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "the final day of January 2026", "output": {"start": "2026-01-31T00:00:00", "end": "2026-01-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 2 business days", "output": {"start": "2025-08-07T00:00:00", "end": "2025-08-07T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "the morning of September 1st", "output": {"start": "2025-09-01T06:00:00", "end": "2025-09-01T12:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "last hour of the year", "output": {"start": "2025-12-31T23:00:00", "end": "2025-12-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next payday", "output": {"start": "2025-08-15T00:00:00", "end": "2025-08-15T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the week of Thanksgiving", "output": {"start": "2025-11-24T00:00:00", "end": "2025-11-28T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "exactly 5 years from today", "output": {"start": "2030-08-05T00:00:00", "end": "2030-08-05T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the next time it's 11:11 AM", "output": {"start": "2025-08-06T11:11:00", "end": "2025-08-06T11:11:00"}}
+
+{"instruction": "Convert to datetime", "input": "last quarter's earnings call", "output": {"start": "2025-04-01T00:00:00", "end": "2025-06-30T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the 3rd Thursday of next month", "output": {"start": "2025-09-18T00:00:00", "end": "2025-09-18T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 1.5 hours", "output": {"start": "2025-08-05T14:00:00", "end": "2025-08-05T14:00:00"}} 
+
+{"instruction": "Convert to datetime", "input": "the coldest day of last winter", "output": {"start": "2025-01-15T00:00:00", "end": "2025-01-15T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "next Groundhog Day at sunrise", "output": {"start": "2026-02-02T06:00:00", "end": "2026-02-02T06:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "the last solar eclipse", "output": {"start": "2024-10-02T00:00:00", "end": "2024-10-02T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "in 100 days and 4 hours", "output": {"start": "2025-11-13T16:00:00", "end": "2025-11-13T16:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "the night before Christmas", "output": {"start": "2025-12-24T18:00:00", "end": "2025-12-24T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the next time Mercury is in retrograde", "output": {"start": "2025-09-01T00:00:00", "end": "2025-09-24T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "last minute of the month", "output": {"start": "2025-08-31T23:59:00", "end": "2025-08-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next Twelfth Night", "output": {"start": "2026-01-05T00:00:00", "end": "2026-01-05T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the second Tuesday after Labor Day", "output": {"start": "2025-09-16T00:00:00", "end": "2025-09-16T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 10 business hours", "output": {"start": "2025-08-06T14:00:00", "end": "2025-08-06T14:00:00"}} 
+
+{"instruction": "Convert to datetime", "input": "the hottest day this summer", "output": {"start": "2025-07-20T00:00:00", "end": "2025-07-20T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "next time the market closes", "output": {"start": "2025-08-05T16:00:00", "end": "2025-08-05T16:00:00"}} 
+
+{"instruction": "Convert to datetime", "input": "the first new moon of 2026", "output": {"start": "2026-01-07T00:00:00", "end": "2026-01-07T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 1 fortnight", "output": {"start": "2025-08-19T00:00:00", "end": "2025-08-19T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the next equinox", "output": {"start": "2025-09-22T00:00:00", "end": "2025-09-22T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "last time it rained here", "output": {"start": "2025-07-28T00:00:00", "end": "2025-07-28T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next tax day", "output": {"start": "2026-04-15T00:00:00", "end": "2026-04-15T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the next time the clocks change", "output": {"start": "2025-11-02T02:00:00", "end": "2025-11-02T02:00:00"}} 
+
+{"instruction": "Convert to datetime", "input": "the first business day of Q2 2026", "output": {"start": "2026-04-01T00:00:00", "end": "2026-04-01T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 3 shakes of a lamb's tail", "output": {"start": "2025-08-05T12:30:05", "end": "2025-08-05T12:30:05"}} 
+
+{"instruction": "Convert to datetime", "input": "the next total lunar eclipse", "output": {"start": "2025-09-07T00:00:00", "end": "2025-09-07T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "last time the Cubs won the World Series", "output": {"start": "2016-11-02T00:00:00", "end": "2016-11-02T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next time Venus is visible at dusk", "output": {"start": "2025-08-15T18:00:00", "end": "2025-08-15T18:00:00"}} 
+
+{"instruction": "Convert to datetime", "input": "the next anniversary of the moon landing", "output": {"start": "2026-07-20T00:00:00", "end": "2026-07-20T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 1 score and 7 years", "output": {"start": "2072-08-05T00:00:00", "end": "2072-08-05T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "the next Friday the 13th", "output": {"start": "2026-02-13T00:00:00", "end": "2026-02-13T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "last time Halley's Comet was visible", "output": {"start": "1986-02-09T00:00:00", "end": "1986-02-09T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next time the Olympics are held", "output": {"start": "2026-02-06T00:00:00", "end": "2026-02-22T23:59:59"}}  
+
+{"instruction": "Convert to datetime", "input": "the next decade", "output": {"start": "2030-01-01T00:00:00", "end": "2039-12-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 1,000 hours", "output": {"start": "2025-09-16T04:00:00", "end": "2025-09-16T04:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "the next time the sun is at zenith here", "output": {"start": "2025-08-05T12:00:00", "end": "2025-08-05T12:00:00"}} 
+
+{"instruction": "Convert to datetime", "input": "last time the stock market crashed", "output": {"start": "2020-03-16T00:00:00", "end": "2020-03-16T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "next time there's a blue moon in August", "output": {"start": "2026-05-31T00:00:00", "end": "2026-05-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the next century", "output": {"start": "2101-01-01T00:00:00", "end": "2200-12-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 1 million seconds", "output": {"start": "2025-08-16T21:46:40", "end": "2025-08-16T21:46:40"}}
+
+{"instruction": "Convert to datetime", "input": "a quarter past noon tomorrow", "output": {"start": "2025-08-06T12:15:00", "end": "2025-08-06T12:15:00"}}
+
+{"instruction": "Convert to datetime", "input": "in 2.5 business days", "output": {"start": "2025-08-07T12:00:00", "end": "2025-08-07T12:00:00"}} 
+
+{"instruction": "Convert to datetime", "input": "the next half-hour mark", "output": {"start": "2025-08-05T13:00:00", "end": "2025-08-05T13:00:00"}} 
+
+{"instruction": "Convert to datetime", "input": "90 seconds from now", "output": {"start": "2025-08-05T12:31:30", "end": "2025-08-05T12:31:30"}}
+
+{"instruction": "Convert to datetime", "input": "next Rosh Hashanah", "output": {"start": "2025-09-22T00:00:00", "end": "2025-09-24T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "last Mardi Gras", "output": {"start": "2025-03-04T00:00:00", "end": "2025-03-04T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the next Oktoberfest", "output": {"start": "2025-09-20T00:00:00", "end": "2025-10-05T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "Chinese New Year 2026", "output": {"start": "2026-02-17T00:00:00", "end": "2026-02-17T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next time the ISS passes overhead", "output": {"start": "2025-08-05T21:30:00", "end": "2025-08-05T21:30:00"}} 
+
+{"instruction": "Convert to datetime", "input": "the next harvest moon", "output": {"start": "2025-09-29T00:00:00", "end": "2025-09-29T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "last solar noon", "output": {"start": "2025-08-05T12:00:00", "end": "2025-08-05T12:00:00"}} 
+
+{"instruction": "Convert to datetime", "input": "next Fed meeting", "output": {"start": "2025-09-17T00:00:00", "end": "2025-09-17T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "the next crypto halving event", "output": {"start": "2024-04-20T00:00:00", "end": "2024-04-20T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "the day the Berlin Wall fell", "output": {"start": "1989-11-09T00:00:00", "end": "1989-11-09T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next Apollo 11 anniversary", "output": {"start": "2026-07-20T00:00:00", "end": "2026-07-20T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "when pigs fly", "output": {"start": "9999-12-31T00:00:00", "end": "9999-12-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the 12th of Never", "output": {"start": "9999-12-12T00:00:00", "end": "9999-12-12T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "tomorrow at 8 AM JST", "output": {"start": "2025-08-06T23:00:00Z", "end": "2025-08-06T23:00:00Z"}} 
+
+{"instruction": "Convert to datetime", "input": "every Thanksgiving", "output": {"start": "2025-11-27T00:00:00", "end": "2025-11-27T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "in 1.337 microseconds", "output": {"start": "2025-08-05T12:00:00.000001", "end": "2025-08-05T12:00:00.000001"}}
+
+{"instruction": "Convert to datetime", "input": "the day the Death Star was destroyed", "output": {"start": "1977-05-25T00:00:00", "end": "1977-05-25T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "next leap second", "output": {"start": "2025-12-31T23:59:60", "end": "2025-12-31T23:59:60"}}
+
+{"instruction": "Convert to datetime", "input": "last time pi day was on a weekend", "output": {"start": "2025-03-14T00:00:00", "end": "2025-03-16T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 1,000,000 minutes", "output": {"start": "2027-01-19T10:40:00", "end": "2027-01-19T10:40:00"}}
+
+{"instruction": "Convert to datetime", "input": "the next time all planets align", "output": {"start": "2492-05-06T00:00:00", "end": "2492-05-06T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "last time the Chicago Cubs won a pennant", "output": {"start": "2016-11-02T00:00:00", "end": "2016-11-02T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next time the Dow hits 40,000", "output": {"start": "2025-12-01T00:00:00", "end": "2025-12-01T23:59:59"}} 
+
+{"instruction": "Convert to datetime", "input": "the next epochalypse", "output": {"start": "2038-01-19T03:14:07", "end": "2038-01-19T03:14:07"}} 
+
+{"instruction": "Convert to datetime", "input": "last time a human walked on the moon", "output": {"start": "1972-12-14T00:00:00", "end": "1972-12-14T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next time the Comet Hale-Bopp returns", "output": {"start": "4385-01-01T00:00:00", "end": "4385-01-01T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "this afternoon at 3:30", "output": {"start": "2025-08-05T15:30:00", "end": "2025-08-05T15:30:00"}}
+
+{"instruction": "Convert to datetime", "input": "two weeks before Christmas", "output": {"start": "2025-12-11T00:00:00", "end": "2025-12-11T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next Black Friday", "output": {"start": "2025-11-29T00:00:00", "end": "2025-11-29T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "in 15 minutes", "output": {"start": "2025-08-05T12:15:00", "end": "2025-08-05T12:15:00"}}
+
+{"instruction": "Convert to datetime", "input": "last month's first Monday", "output": {"start": "2025-07-07T00:00:00", "end": "2025-07-07T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the evening of September 30th", "output": {"start": "2025-09-30T18:00:00", "end": "2025-09-30T22:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "4 hours and 20 minutes from now", "output": {"start": "2025-08-05T16:20:00", "end": "2025-08-05T16:20:00"}}
+
+{"instruction": "Convert to datetime", "input": "next Mother's Day", "output": {"start": "2026-05-10T00:00:00", "end": "2026-05-10T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the start of autumn", "output": {"start": "2025-09-22T00:00:00", "end": "2025-09-22T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "yesterday from 9 to 11 AM", "output": {"start": "2025-08-04T09:00:00", "end": "2025-08-04T11:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "5 business days from today", "output": {"start": "2025-08-12T00:00:00", "end": "2025-08-12T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next Tuesday at quarter to 4", "output": {"start": "2025-08-12T15:45:00", "end": "2025-08-12T15:45:00"}}
+
+{"instruction": "Convert to datetime", "input": "the first snowfall of winter", "output": {"start": "2025-12-01T00:00:00", "end": "2025-12-01T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "12 hours from now", "output": {"start": "2025-08-06T00:00:00", "end": "2025-08-06T00:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "Columbus Day weekend", "output": {"start": "2025-10-11T00:00:00", "end": "2025-10-13T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "end of this month", "output": {"start": "2025-08-31T00:00:00", "end": "2025-08-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "Wednesday morning at 6:45", "output": {"start": "2025-08-06T06:45:00", "end": "2025-08-06T06:45:00"}}
+
+{"instruction": "Convert to datetime", "input": "the second half of 2026", "output": {"start": "2026-07-01T00:00:00", "end": "2026-12-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next meteor shower peak", "output": {"start": "2025-08-12T03:00:00", "end": "2025-08-12T03:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "72 hours ago", "output": {"start": "2025-08-02T12:00:00", "end": "2025-08-02T12:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "Martin Luther King Jr. Day 2026", "output": {"start": "2026-01-19T00:00:00", "end": "2026-01-19T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "this time next week", "output": {"start": "2025-08-12T12:00:00", "end": "2025-08-12T12:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "the vernal equinox", "output": {"start": "2026-03-20T00:00:00", "end": "2026-03-20T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "30 seconds from now", "output": {"start": "2025-08-05T12:00:30", "end": "2025-08-05T12:00:30"}}
+
+{"instruction": "Convert to datetime", "input": "next payday Friday", "output": {"start": "2025-08-15T00:00:00", "end": "2025-08-15T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the morning after New Year's", "output": {"start": "2026-01-02T06:00:00", "end": "2026-01-02T12:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "in exactly one year", "output": {"start": "2026-08-05T12:00:00", "end": "2026-08-05T12:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "last Tuesday of October", "output": {"start": "2025-10-28T00:00:00", "end": "2025-10-28T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "8 weeks from today at 2 PM", "output": {"start": "2025-09-30T14:00:00", "end": "2025-09-30T14:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "the witching hour tonight", "output": {"start": "2025-08-06T03:00:00", "end": "2025-08-06T03:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "next Cyber Monday", "output": {"start": "2025-12-02T00:00:00", "end": "2025-12-02T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "three days before my birthday", "output": {"start": "2025-08-02T00:00:00", "end": "2025-08-02T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the first Monday in May 2026", "output": {"start": "2026-05-04T00:00:00", "end": "2026-05-04T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "2 hours before midnight", "output": {"start": "2025-08-05T22:00:00", "end": "2025-08-05T22:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "next fiscal quarter", "output": {"start": "2025-10-01T00:00:00", "end": "2025-12-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the golden hour this evening", "output": {"start": "2025-08-05T18:30:00", "end": "2025-08-05T19:30:00"}}
+
+{"instruction": "Convert to datetime", "input": "42 minutes past the hour", "output": {"start": "2025-08-05T12:42:00", "end": "2025-08-05T12:42:00"}}
+
+{"instruction": "Convert to datetime", "input": "next Juneteenth", "output": {"start": "2026-06-19T00:00:00", "end": "2026-06-19T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the start of school holidays", "output": {"start": "2025-12-20T00:00:00", "end": "2025-12-20T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "6 months and 2 days from now", "output": {"start": "2026-02-07T12:00:00", "end": "2026-02-07T12:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "the end of rush hour", "output": {"start": "2025-08-05T18:00:00", "end": "2025-08-05T18:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "next St. Patrick's Day", "output": {"start": "2026-03-17T00:00:00", "end": "2026-03-17T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "20 years from today", "output": {"start": "2045-08-05T00:00:00", "end": "2045-08-05T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "the middle of next week", "output": {"start": "2025-08-13T12:00:00", "end": "2025-08-13T12:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "last day of summer vacation", "output": {"start": "2025-08-31T00:00:00", "end": "2025-08-31T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "next time the moon is new", "output": {"start": "2025-08-04T00:00:00", "end": "2025-08-04T23:59:59"}}
+
+{"instruction": "Convert to datetime", "input": "breakfast time tomorrow", "output": {"start": "2025-08-06T08:00:00", "end": "2025-08-06T09:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "5:55 PM sharp", "output": {"start": "2025-08-05T17:55:00", "end": "2025-08-05T17:55:00"}}
+
+{"instruction": "Convert to datetime", "input": "the first frost of fall", "output": {"start": "2025-10-15T06:00:00", "end": "2025-10-15T06:00:00"}}
+
+{"instruction": "Convert to datetime", "input": "next Independence Day", "output": {"start": "2026-07-04T00:00:00", "end": "2026-07-04T23:59:59"}}
