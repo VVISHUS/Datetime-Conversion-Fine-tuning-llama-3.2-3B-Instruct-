@@ -14,6 +14,8 @@ Output: {
   "end": "2025-08-06T15:00:00"
 }
 ```
+## Requirements
+- Get wandb API from here: https://wandb.ai/authorize?ref=models
 
 ## 🚀 Features
 
